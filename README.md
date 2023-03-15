@@ -3,9 +3,7 @@
 I am a graduated Computer science and Engineering student at Dokuz Eylul University. Swift, SwiftUI are the programming languages I am working on. I love to learn and build something new, productive, innovative and creative.
 
 I am interested in Mobile Development with multiple patterns and architectures
-🌱 I’m currently learning ...
-Combine
-SwiftUI
+🌱 I’m currently learning Combine SwiftUI.
 👯 I’m looking forward to collaborate on open source projects.
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉
 Outside tech, 📖 I love to read novels, skecthing, 🎵 dancing, and 🌴 explore nature outdoors.
