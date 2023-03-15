@@ -8,7 +8,7 @@ I love to learn and build something new, productive, innovative and creative.
 
 I am interested in Mobile Development with multiple patterns and architectures
 
- 🌱 I’m currently learning Combine SwiftUI.
+ 🌱 I’m currently learning Combine , SwiftUI.
  
 👯 I’m looking forward to collaborate on open source projects.
 
