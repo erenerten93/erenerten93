@@ -1,7 +1,7 @@
 ### Hi there 👋
 ** About me**
 
-Swift Enthusiast & Mobile Developer & Main.storyboard Deleter
+Swift Enthusiast & Mobile Developer & Main.storyboard deleter
 
 Swift, SwiftUI are the programming languages I am working on. 
 I love to learn and build something new, productive, innovative and creative. 
